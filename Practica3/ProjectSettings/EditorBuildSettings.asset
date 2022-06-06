@@ -5,8 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/360Video.unity
     guid: 5602067a543623c46ac8607b2f3df553
+  - enabled: 1
+    path: Assets/Practica5.unity
+    guid: cfc53ad69ed43b2458dc34d7bc1f81b3
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7330bf8ca5b4ec841b062247b97ce5c9, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 26fcf6cb0be3af14f9c30c2a4b4ab8ab, type: 2}
